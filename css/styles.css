@@ -1,0 +1,9 @@
+*{
+  box-sizing: border-box;
+  background-color: black;
+
+}
+
+.navbar{
+  display:inline-block;
+}
