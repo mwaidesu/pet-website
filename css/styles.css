@@ -1,9 +1,34 @@
 *{
   box-sizing: border-box;
-  background-color: black;
-
+  
+}
+html{
+  border: 20px solid #495371;
+  height: 100vh;
+}
+body{
+  background-color: #F1E0AC;
 }
 
 .navbar{
-  display:inline-block;
+  display:flex;
+  background-color: #98b4aa;
 }
+
+nav li{
+  list-style-type: none;
+  padding: 20px; 
+}
+
+li a{
+  text-decoration: none;
+}
+
+.large-font{
+  font-size: xx-large;
+}
+
+.solo-image{
+  width: 49%;
+}
+
